@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Language.Text</PackageId>
+    <RootNamespace>Novolis.Language.Text</RootNamespace>
+    <Description>Source text, spans, and locations for Novolis language tooling.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+</Project>

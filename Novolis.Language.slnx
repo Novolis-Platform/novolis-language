@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Novolis.Language.Diagnostics/Novolis.Language.Diagnostics.csproj" />
+    <Project Path="src/Novolis.Language.Execution/Novolis.Language.Execution.csproj" />
+    <Project Path="src/Novolis.Language.RoboSharp/Novolis.Language.RoboSharp.csproj" />
+    <Project Path="src/Novolis.Language.Syntax/Novolis.Language.Syntax.csproj" />
+    <Project Path="src/Novolis.Language.Text/Novolis.Language.Text.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Novolis.Language.Unit/Novolis.Language.Unit.csproj" />
+  </Folder>
+</Solution>

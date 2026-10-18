@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Language.RoboSharp</PackageId>
+    <RootNamespace>Novolis.Language.RoboSharp</RootNamespace>
+    <Description>RoboSharp language lexer, command compiler, teaching IL, and deterministic interpreter.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Novolis.Language.Diagnostics\Novolis.Language.Diagnostics.csproj" />
+    <ProjectReference Include="..\Novolis.Language.Execution\Novolis.Language.Execution.csproj" />
+    <ProjectReference Include="..\Novolis.Language.Syntax\Novolis.Language.Syntax.csproj" />
+    <ProjectReference Include="..\Novolis.Language.Text\Novolis.Language.Text.csproj" />
+  </ItemGroup>
+</Project>

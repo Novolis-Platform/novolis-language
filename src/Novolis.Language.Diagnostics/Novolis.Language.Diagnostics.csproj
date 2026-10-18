@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Language.Diagnostics</PackageId>
+    <RootNamespace>Novolis.Language.Diagnostics</RootNamespace>
+    <Description>Structured diagnostics and faults for Novolis language pipelines.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Novolis.Language.Text\Novolis.Language.Text.csproj" />
+  </ItemGroup>
+</Project>

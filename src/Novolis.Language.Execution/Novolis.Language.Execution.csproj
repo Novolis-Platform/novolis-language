@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Language.Execution</PackageId>
+    <RootNamespace>Novolis.Language.Execution</RootNamespace>
+    <Description>Inspectable execution snapshots, stepping, and structured runtime faults.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Novolis.Language.Diagnostics\Novolis.Language.Diagnostics.csproj" />
+    <ProjectReference Include="..\Novolis.Language.Text\Novolis.Language.Text.csproj" />
+  </ItemGroup>
+</Project>

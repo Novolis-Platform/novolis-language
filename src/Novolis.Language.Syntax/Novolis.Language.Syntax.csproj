@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Language.Syntax</PackageId>
+    <RootNamespace>Novolis.Language.Syntax</RootNamespace>
+    <Description>Token, syntax, and compilation-stage primitives for Novolis languages.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Novolis.Language.Diagnostics\Novolis.Language.Diagnostics.csproj" />
+    <ProjectReference Include="..\Novolis.Language.Text\Novolis.Language.Text.csproj" />
+  </ItemGroup>
+</Project>
