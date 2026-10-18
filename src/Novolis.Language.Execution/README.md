@@ -1,7 +1,5 @@
 # Novolis.Language.Execution
 
-Inspectable execution snapshots and stepping contracts.
+Inspectable execution snapshots, stepping, and structured runtime faults.
 
-```powershell
-dotnet add package Novolis.Language.Execution
-```
+Install from nuget.org or GitHub Packages.

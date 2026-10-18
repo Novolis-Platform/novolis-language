@@ -1,7 +1,5 @@
 # Novolis.Language.Text
 
-Source text, half-open spans, and source locations.
+Source text, spans, and locations for Novolis language tooling.
 
-```powershell
-dotnet add package Novolis.Language.Text
-```
+Install from nuget.org or GitHub Packages.

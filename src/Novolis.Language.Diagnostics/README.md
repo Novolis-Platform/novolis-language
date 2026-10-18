@@ -1,7 +1,5 @@
 # Novolis.Language.Diagnostics
 
-Structured diagnostics for compiler and runtime stages.
+Structured diagnostics and faults for Novolis language pipelines.
 
-```powershell
-dotnet add package Novolis.Language.Diagnostics
-```
+Install from nuget.org or GitHub Packages.

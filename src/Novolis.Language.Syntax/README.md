@@ -1,7 +1,5 @@
 # Novolis.Language.Syntax
 
-Token, syntax tree, and compilation-stage result primitives.
+Token, syntax, and compilation-stage primitives for Novolis languages.
 
-```powershell
-dotnet add package Novolis.Language.Syntax
-```
+Install from nuget.org or GitHub Packages.
